@@ -1,3 +1,4 @@
+//Скрипты и время их выполнения. setTimeout и setInterval - 39
 "use strict";
 // const timerId = setTimeout(
 // 	(text) => {
