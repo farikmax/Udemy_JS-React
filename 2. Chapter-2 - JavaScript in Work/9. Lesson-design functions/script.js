@@ -31,7 +31,7 @@
 
 // console.log(ivan);
 // console.log(alex);
-//-------------------------------------------------классы ES-6
+//-------------------------------------------------классы Standart ES-6+
 class User {
 	constructor(name, id) {
 		this.name = name;
